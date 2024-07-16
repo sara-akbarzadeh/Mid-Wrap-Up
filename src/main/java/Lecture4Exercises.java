@@ -93,3 +93,4 @@ public class Lecture4Exercises {
         return dotPlot;
     }
 }
+
